@@ -331,6 +331,7 @@ internal object DOLTag {
 
     const val TERMINAL_CONFIGURATION = "DF3D"
     const val TAG_JCB_OFFLINE_BALANCE = "9F5F"
+const val TAG_JCB_OFFLINE_BALANCE = "AAA"
 }
 
 
