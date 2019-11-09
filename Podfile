@@ -10,5 +10,6 @@ target 'ProGMIOS' do
   pod 'Alamofire'
   pod 'SwiftyJSON'
   pod "BCryptSwift"
+  pod 'ReachabilitySwift'
 
 end
